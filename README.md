@@ -19,15 +19,15 @@ Step 3: Activate Your Virtual Environment
 Step 1: Install Django
 * pip install django
 
-* Step 2: Check if django works
-django-admin
+Step 2: Check if django works
+* django-admin
 
-* Step 3: Create django project
-django-admin startproject django_news
+Step 3: Create django project
+* django-admin startproject django_news
 
-* Step 4: Run django project
-cd django_news
-python3 manage.py runserver
+Step 4: Run django project
+* cd django_news
+* python3 manage.py runserver
 ------------------------
 Create new django app
 * python3 manage.py startapp news_app
